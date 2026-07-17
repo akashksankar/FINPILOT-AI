@@ -1,0 +1,6 @@
+{
+  "name": "FinPilot AI",
+  "description": "An intelligent, premium personal expense tracker and financial forecasting terminal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
